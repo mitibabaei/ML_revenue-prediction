@@ -5,9 +5,10 @@ This project predicts supermarket revenue for the next 7 days using machine lear
 
 ## Project Structure
 
-- `data/`: Contains the dataset used for the project.
+- `data/`: Contains the dataset used for the project. *(Note: The data cannot be published due to privacy and confidentiality concerns.)*
 - `notebooks/`: Jupyter notebooks for data exploration and experimentation.
 - `models/`: Trained models and scripts for model evaluation.
 - `results/`: Output data such as figures, logs, and metrics.
 - `tests/`: Unit tests for the project.
 
+## Getting Started
